@@ -15,6 +15,7 @@ export const defaultMessage = `Powered by OpenAI Vercel
 - 请在左下角设置，输入网站密码
 - 关注公众号: 宋学东, 获取最新密码
 - 学习教程 http://c.nxw.so/bmRk0
+- 点击右下角 M↓，一键复制聊天记录
 - 点击右下角图片，保存截图。`
 
 export type Setting = typeof defaultSetting
