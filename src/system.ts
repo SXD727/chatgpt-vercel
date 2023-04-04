@@ -13,7 +13,8 @@ export const defaultSetting = {
 export const defaultMessage = `Powered by OpenAI Vercel
 - 本站仅作演示，不提供长期服务
 - 请在左下角设置，输入网站密码
-- 关注公众号:宋学东, 获取最新密码。http://c.nxw.so/c6xjT
+- 关注公众号:宋学东, 获取最新密码。
+- 学习教程 http://c.nxw.so/bmRk0
 - 点击右下角图片，保存截图。`
 
 export type Setting = typeof defaultSetting
