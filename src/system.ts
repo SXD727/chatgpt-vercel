@@ -12,7 +12,7 @@ export const defaultSetting = {
 
 export const defaultMessage = `Powered by OpenAI Vercel
 - 本站仅作演示，不提供长期服务
-- 请在左下角设置，输入网站密码
+- 先在左下角设置，输入网站密码 12138
 - 关注公众号: 宋学东, 获取最新密码
 - 学习教程 https://x.b1n.net
 - 点击右下角 M↓，一键复制聊天记录
